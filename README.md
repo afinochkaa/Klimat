@@ -1,0 +1,2 @@
+# Klimat
+Uzdevums "Klimats"
